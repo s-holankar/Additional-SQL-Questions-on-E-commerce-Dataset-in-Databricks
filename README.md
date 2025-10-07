@@ -5,7 +5,9 @@ This dataset contains simulated order data from an online e-commerce platform. I
 # 📄 Dataset Fields
 # Field Name	Description
 order_id	Unique identifier for each order
+
 user_id	Unique identifier for the user who placed the order
+
 order_date	Date when the order was placed
 product_id	Unique identifier for the product
 product_category	Category of the product (e.g., Fashion, Electronics, Books, etc.)

@@ -4,17 +4,18 @@ This dataset contains simulated order data from an online e-commerce platform. I
 
 # 📄 Dataset Fields
 
-# Field Name	Description
-order_id	Unique identifier for each order
-user_id	Unique identifier for the user who placed the order
-order_date	Date when the order was placed
-product_id	Unique identifier for the product
-product_category	Category of the product (e.g., Fashion, Electronics, Books, etc.)
-product_name	Name of the product
-quantity	Number of units ordered
-price_per_unit	Price per single unit of the product
-payment_method	Payment method used (e.g., Credit Card, PayPal, UPI, Debit Card)
-order_status	Status of the order (e.g., Delivered, Cancelled, Returned, Processing)
+| Field Name         | Description                                                            |
+| ------------------ | ---------------------------------------------------------------------- |
+| `order_id`         | Unique identifier for each order                                       |
+| `user_id`          | Unique identifier for the user who placed the order                    |
+| `order_date`       | Date when the order was placed                                         |
+| `product_id`       | Unique identifier for the product                                      |
+| `product_category` | Category of the product (e.g., Fashion, Electronics, Books, etc.)      |
+| `product_name`     | Name of the product                                                    |
+| `quantity`         | Number of units ordered                                                |
+| `price_per_unit`   | Price per single unit of the product                                   |
+| `payment_method`   | Payment method used (e.g., Credit Card, PayPal, UPI, Debit Card)       |
+| `order_status`     | Status of the order (e.g., Delivered, Cancelled, Returned, Processing) |
 
 
 # Tools used: SQL, Databricks, Notebooks
